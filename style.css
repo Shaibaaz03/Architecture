@@ -1,0 +1,1146 @@
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.brand-img {
+  margin: 20px 0 0 100px;
+}
+
+li {
+  display: inline-block;
+  padding: 20px 0 0 50px;
+}
+
+.ms-auto {
+  margin-left: auto !important;
+}
+
+.navbar-nav {
+}
+
+.nav-item {
+  font-family: "outfit";
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  color: #444444;
+}
+
+.contact-btn {
+  margin: 20px 90px 0 30px;
+  width: 148px;
+  height: 44px;
+  background: #996830;
+  color: #fff;
+  display: flex;
+  border: none;
+  font-family: "outfit";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  display: block;
+}
+
+.contact-btn2 {
+  padding: 14px 0 0 25px;
+  margin:96px 0 0;
+  width: 148px;
+  height: 44px;
+  background: #996830;
+  color: #fff;
+  display: flex;
+  border: none;
+  font-family: "outfit";
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.contact-btn3 {
+  display: none;
+}
+
+
+.arrow {
+  width: 50px;
+  margin-left: 10px;
+}
+
+.home {
+  font-size: 72px;
+  font-weight: 500;
+  font-family: "playfair display";
+  font-style: none;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+.head-it {
+  font-family: "playfair display";
+  font-style: italic;
+  font-size: 72px;
+  font-weight: 500;
+}
+
+.head-p {
+  text-align: center;
+  font-family: "outfit";
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 32px;
+  margin-top: 30px;
+}
+
+.stamp {
+  position: absolute;
+  margin-left: 112px;
+  margin-top: 17px;
+}
+
+.flat {
+  width: 100%;
+  margin-top: 80px;
+}
+
+.titles {
+  background: #2C2C2C;
+  height: 128px;
+  width: 100%;
+  top: 1068px;
+  margin: 0;
+  display: flex;
+}
+
+.award {
+  margin: 0;
+  color: #fff;
+  styleName: "Italic";
+  font-family: "Playfair Display";
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 32px;
+  opacity: 0.5;
+  padding: 110px 0 0 10px;
+  width: 90px;
+  transform: rotate(-90deg);
+}
+
+.vr {
+  width: 64px;
+  height: 1px;
+  opacity: 0.5;
+  border: 0;
+  background: #fff;
+  margin: 62px 0 0 50px;
+}
+
+.designz {
+  margin: 24px 0 0 20px;
+  width: 80px;
+  height: 80px;
+}
+
+.award1 {
+  display: flex;
+  padding: 0 20px 0 0;
+}
+
+.award-name {
+  padding: 40px 0px 0 15px;
+  align-items: center;
+  font-family: "outfit";
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #D9D9D6;
+  width: 160px;
+}
+
+.vr2 {
+  width: 64px;
+  height: 1px;
+  border: none;
+  background: #996830;
+  margin-top: 15px;
+  margin-left: 0;
+}
+
+.head {
+  display: flex;
+  height: 50px;
+  width: 250px;
+  margin-top: 190px;
+  margin-left: 6.5%;
+}
+
+.head5 {
+  display: flex;
+  height: 50px;
+  width: 250px;
+  margin-top: 190px;
+  margin-left: 7.5%;
+}
+
+.head-btm {
+  display: flex;
+  margin-top: -40px;
+  float: right;
+  width: 400px;
+}
+
+.margin {
+  display: flex;
+}
+
+.head1 {
+  display: flex;
+  height: 50px;
+  width: 250px;
+  margin-top: 190px;
+  margin-left: 13%;
+}
+
+.about-us {
+}
+
+.images {
+  position: absolute;
+}
+
+.about-head {
+  padding: 6px 70px 0 0;
+  font-family: "outfit";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #996830;
+}
+
+#about-head-btm {
+  padding: 9px 0 0 0;
+  font-family: "outfit";
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #7F8487;
+}
+
+.heading {
+  font-family: "playfair display";
+  font-size: 60px;
+  line-height: 72px;
+  margin-left: 13%;
+  letter-spacing: -0.025em;
+  font-weight: 400;
+}
+
+.heading2 {
+  font-family: "playfair display";
+  font-size: 60px;
+  line-height: 72px;
+  margin-left: 6.5%;
+  letter-spacing: -0.025em;
+  font-weight: 400;
+}
+
+.heading3 {
+  font-family: "playfair display";
+  font-size: 60px;
+  line-height: 72px;
+  margin-left: 13%;
+  letter-spacing: -0.025em;
+  font-weight: 400;
+}
+
+.dream {
+  font-style: italic;
+  font-family: "playfair display";
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: -0.025em;
+  font-weight: 400;
+}
+
+.par1 {
+  margin-left: 13%;
+  font-family: "outfit";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 25px;
+}
+
+.card-2 .par1 {
+  margin-left: 0;
+  font-family: "outfit";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 14px;
+}
+
+.card-3 .par1 {
+  margin-left: 0;
+  font-family: "outfit";
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 14px;
+}
+
+.studio {
+  position: absolute;
+  z-index: 1;
+  margin: 155px 0 0 250px;
+}
+
+.bar {
+  position: absolute;
+  margin: 128px 0 0 10px;
+}
+
+.mirror {
+  margin: 208px 0 0 310px;
+}
+
+.highlights {
+  padding: 128px 0 0 6.5%;
+}
+
+.highlights-container {
+  display: flex;
+}
+
+.hl-100 {
+  display: flex;
+  width: 450px;
+  margin-right: 170px;
+}
+
+.hl-101 {
+  display: flex;
+  width: 350px;
+  margin-right: 170px;
+}
+
+
+.hl-text {
+  font-family: "playfair display";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: -0.025em;
+}
+
+.hl-p {
+  display: inline-block;
+  width: 180px;
+  padding: 30px 0 0 20px;
+  font-family: "outfit";
+  font-size: 14px;
+}
+
+.hl-p2 {
+  display: inline-block;
+  width: 140px;
+  padding: 30px 0 0 20px;
+  font-family: "outfit";
+  font-size: 14px;
+}
+
+.vr3 {
+  width: 87%;
+  height: 1px;
+  border: none;
+  background: #D9D9D6;
+  margin-top: 80px;
+  margin-left: 6.5%;
+}
+
+.cards {
+  display: flex;
+  margin-left: 6.5%;
+}
+
+.card {
+  border: 1px solid #996830;
+  width: 380px;
+  height: 383px;
+  margin: 60px 40px 0 0;
+}
+
+.bldg {
+  padding: 36px 0 0 36px;
+}
+
+.card h3 {
+  margin: 86px 0 0 36px;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.card-1 h3 {
+  margin: 24px 0 0 0px;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.card-2 h3 {
+  margin: 16px 0 0 0px;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.card-3 h3 {
+  margin: 16px 0 0 0px;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+.card-1 {
+  margin-left: 13%;
+}
+
+.line-br4 {
+  display: none;
+}
+
+.row1 {
+  display: flex;
+  width: 1000px;
+}
+
+.card p {
+  margin: 16px 0 0 36px;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.villa {
+  width: 590px;
+  height: 440px;
+  margin-top: 96px;
+}
+
+.card-2 {
+  margin-top: -40px;
+  margin-left: 70px;
+}
+
+.card-3 {
+  margin-top: 80px;
+  margin-left: 70px;
+}
+
+.hotel {
+  width: 480px;
+  height: 360px;
+  margin-top: 100px;
+}
+
+.Pool {
+  width: 480px;
+  height: 360px;
+  margin-top: 100px;
+}
+
+.footer-h {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+  width: 592px;
+  height: 120px;
+}
+
+.footer-h-2 {
+  font-family: 'Playfair Display';
+  text-decoration-line: underline;
+  color: #996830;
+  font-style: normal;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+  width: 592px;
+  height: 120px;
+}
+
+.btm-head {
+  margin: 80px 0 0 6.5%;
+}
+
+.btm-head-2 h4 {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.btm-p {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.btm-head-2 {
+  margin: -280px 0 0 1050px;
+}
+
+.email {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 24px;
+  margin-top: 32px;
+}
+
+.hello {
+  font-family: 'Playfair Display';
+  color: #996830;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 32px;
+  width: 250px;
+  margin-top: 0;
+}
+
+.footer-2 {
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  margin: 88px 0 88px 6.5%;
+  width: 1210px;
+}
+
+.footer-2 span {
+  color: #996830;
+}
+
+.icons {
+  display: flex;
+}
+
+.btns {
+  height: 40px;
+  width: 40px;
+  margin-left: 24px;
+}
+
+.line-br {
+  display: static;
+}
+
+.top-award {
+  width: 600px;
+  display: flex;
+}
+
+.btm-award {
+  display:flex;
+  width: 600px;
+}
+
+
+/* ________________tablet________________ */
+
+@media (max-width:768px) {
+
+  .brand-img {
+    margin-left: 40px;
+  }
+
+  .contact-btn {
+    margin-right: 40px;
+  }
+
+  .head-p {
+    padding: 0 20px;
+  }
+
+  .line-br {
+    display: none;
+  }
+
+  .stamp {
+    margin-left: 42%;
+  }
+
+  .titles {
+    height: 240px;
+  }
+
+  .vr {
+    position: absolute;
+    margin: 5px 0 0 10px;
+  }
+
+  .row {
+    width: 100%;
+  }
+
+  .award1 {
+    width: 260px;
+    height: 118px;
+    padding-right: 0;
+    margin-right: 20px;
+  }
+
+  .about-us {
+    width: 100%;
+  }
+
+  .head1 {
+    margin-top: 90px;
+    margin-left: 40px;
+  }
+
+  .heading {
+    margin-left: 40px;
+  }
+
+  .head5 {
+    display: flex;
+    height: 50px;
+    width: 250px;
+    margin-top: 190px;
+    margin-left: 9%;
+  }
+
+  .par1 {
+    margin-left: 40px;
+  }
+
+  .studio {
+    position: absolute;
+    z-index: 1;
+    margin: 70px 0 0 305px;
+  }
+
+  .bar {
+    position: absolute;
+    margin: 128px 0 0 50px;
+    width: 300px;
+  }
+
+  .mirror {
+    margin: 208px 0 0 370px;
+    width: 300px;
+  }
+
+  .hl-p {
+    padding: 0;
+    width: 180px;
+    font-family: "outfit";
+    font-size: 14px;
+  }
+
+  .hl-p2 {
+    padding: 0;
+    width: 140px;
+    font-family: "outfit";
+    font-size: 14px;
+  }
+
+  .hl-100 {
+    display: block;
+    width: 450px;
+    margin-right: 30px;
+    padding-right: 20px;
+  }
+
+  .hl-101 {
+    display: block;
+    width: 350px;
+    margin-right: 30px;
+    padding-right: 20px;
+  }
+
+  .vr3 {
+    margin-top: 50px;
+  }
+
+  .cards {
+    display: block;
+    margin-left: 6.5%;
+  }
+
+  .card {
+    border: 1px solid #996830;
+    width: 95%;
+    height: 310px;
+    margin: 60px 40px 0 0;
+  }
+
+  .card-1 {
+    margin-left: 6.5%;
+  }
+
+  .villa {
+    width: 98%;
+    height: 440px;
+    margin-top: 48px;
+  }
+
+  .hotel {
+    width: 98%;
+    height: 360px;
+  }
+
+  .pool {
+    width: 98%;
+    height: 360px;
+  }
+
+  .card-2 {
+    margin-top: -40px;
+    margin-left: 40px;
+  }
+
+  .card-3 {
+    margin-top: 80px;
+    margin-left: 40px;
+  }
+
+  .contact-btn2 {
+    display: none;
+  }
+
+  .contact-btn3 {
+    padding: 0px 0 0 0px;
+    margin: 50px 90px 0 40px;
+    width: 148px;
+    height: 44px;
+    background: #996830;
+    color: #fff;
+    display: flex;
+    border: none;
+    font-family: "outfit";
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    display: block;
+  }
+
+  .btm-head-2 {
+    margin: 0px 0 0 45px;
+  }
+
+  .head-btm {
+    margin-top: 32px;
+    float: left;
+    display: flex;
+    width: 400px;
+  }
+
+  .margin {
+    display: flex;
+  }
+
+  .vr {
+    width: 64px;
+    height: 1px;
+    opacity: 0.5;
+    border: 0;
+    background: #fff;
+    margin: 120px 0 0 90px;
+    position: absolute;
+  }
+
+  .top-award {
+    width: 1900px;
+    display: flex;
+    margin-left: 80px;
+  }
+
+  .btm-award {
+    width: 1900px;
+    display: flex;
+    margin-left: 80px;
+  }
+
+  .row1 {
+    display: block;
+    width: 1000px;
+  }
+}
+
+/* ________________Moblie________________ */
+
+@media (max-width:500px) {
+
+
+  .home {
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 49px;
+    line-height: 60px;
+  }
+
+  .home span {
+    margin-top: 100px;
+    font-weight: 500;
+    font-size: 49px;
+    line-height: 60px;
+  }
+
+  .head-p {
+    font-size: 18px;
+  }
+
+  .line-br4 {
+    display: block;
+  }
+
+  li {
+    display: none;
+  }
+
+  .flat {
+    margin-left: -335px;
+    margin-right: -335px;
+    width: 1045px;
+    top: 0px;
+    bottom: 0px;
+  }
+
+  .stamp {
+    position: absolute;
+    margin-left: 37%;
+    margin-top: 17px;
+  }
+
+  .titles {
+    height: 440px;
+  }
+
+  .row1 {
+    display: inline;
+  }
+
+  .award1 {
+    margin-bottom: -10px;
+    float: right;
+  }
+
+  .top-award {
+    width: 250px;
+    display: block;
+    margin-left: 150px;
+  }
+
+  .btm-award {
+    width: 250px;
+    display: block;
+    margin-left: 150px;
+  }
+
+  .vr {
+    position: absolute;
+    margin: 65px 0 0 80px;
+    width: 30px;
+  }
+
+  .award {
+    position: absolute;
+    margin: 0;
+    color: #fff;
+    styleName: "Italic";
+    font-family: "Playfair Display";
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 32px;
+    opacity: 0.5;
+    padding: 40px 0 45px 0;
+    width: 90px;
+    transform: rotate(-90deg);
+  }
+
+  .head1 {
+    display: flex;
+    height: 50px;
+    width: 250px;
+    margin-top: 48px;
+    margin-left: 20px;
+  }
+
+  .heading {
+    font-size: 36px;
+    line-height: 48px;
+    margin-left: 20px;
+  }
+
+  .dream {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .par1 {
+    margin-left: 20px;
+  }
+
+  .studio {
+    position: absolute;
+    z-index: 1;
+    margin: 30px 0 0 180px;
+  }
+
+  .bar {
+    width: 170px;
+    height: 300px;
+    margin: 80px 0 0 25px;
+  }
+
+  .mirror {
+    width: 170px;
+    height: 300px;
+    margin: 130px 0 0 210px;
+  }
+
+  .hl-100 {
+    display: flex;
+    width: 450px;
+      margin: 0 170px 30px 0;
+  }
+
+  .hl-101 {
+    display: flex;
+    width: 350px;
+    margin: 0 170px 30px 0;
+  }
+
+  .highlights-container {
+    display: block;
+  }
+
+  .hl-text {
+    font-size: 48px;
+    line-height: 60px;
+  }
+
+  .hl-p {
+    display: inline-block;
+    width: 180px;
+    padding: 15px 0 0 20px;
+    font-family: "outfit";
+    font-size: 14px;
+  }
+
+  .hl-p2 {
+    display: inline-block;
+    width: 140px;
+    padding: 15px 0 0 20px;
+    font-family: "outfit";
+    font-size: 14px;
+  }
+
+  .highlights {
+    padding: 48px 0 0 6.5%;
+  }
+
+  .about-head {
+    padding: 6px 70px 0 0;
+  }
+
+  .head {
+    margin-top: 90px;
+  }
+
+  .heading2 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .card {
+    width: 350px;
+    height: 370px;
+  }
+
+  .card h3 {
+    margin: 30px 0 0 36px;
+  }
+
+  .head5 {
+    display: flex;
+    height: 50px;
+    width: 250px;
+    margin-top: 90px;
+    margin-left: 9%;
+  }
+
+  .heading3 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .villa {
+    width: 420px;
+    height: 251px;
+    margin-top: 48px;
+  }
+
+  .hotel {
+    width: 420px;
+    height: 251px;
+    margin-top: 100px;
+    margin-left: -10px;
+  }
+
+  .pool {
+    width: 420px;
+    height: 251px;
+    margin-top: -20px;
+    margin-left: -10px;
+  }
+
+
+  .card-1 h3 {
+    margin: 40px 0 0 0px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .card-2 h3 {
+    margin: 40px 0 0 -10px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .card-3 h3 {
+    margin: 40px 0 0 -10px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .card1 .par1 {
+    margin-left: -10px;
+    font-family: "outfit";
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 25px;
+  }
+
+  .card-2 .par1 {
+    margin-left: -10px;
+    font-family: "outfit";
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 25px;
+  }
+
+  .card-3 .par1 {
+    margin-left: -10px;
+    font-family: "outfit";
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 25px;
+  }
+
+  .contact-btn2 {
+    display: none;
+  }
+
+  .contact-btn3 {
+    padding: 0px 0 0 0px;
+    margin: 50px 90px 0 30px;
+    width: 148px;
+    height: 44px;
+    background: #996830;
+    color: #fff;
+    display: flex;
+    border: none;
+    font-family: "outfit";
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    display: block;
+  }
+
+  .footer-h {
+    font-size: 30px;
+    line-height: 40px;
+  }
+
+  .footer-h-2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-top: -20px;
+    height: 80px;
+  }
+
+  .btm-head-2 h4 {
+    margin-left: -15px;
+  }
+
+  .btm-p {
+    margin-left: -14px;
+  }
+
+  .email {
+    margin-left: -15px;
+  }
+
+  .hello {
+    margin-left: -15px;
+  }
+
+  .footer-2 p {
+    margin-top: -20px;
+  }
+
+  .head-btm {
+    display: block;
+  }
+
+  .margin {
+    display: flex;
+  }
+
+  .icons {
+    margin: 20px 0 40px -26px;
+  }
+}
